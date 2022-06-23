@@ -2,4 +2,4 @@
 Proyecto 1 Data Science
 Alcantara Orihuela Diana
 Mejia Martinez Alan
-Palacios Córdoba Kattlyn Juliana
+Palacios Córdoba Kattlyn Yuliana
